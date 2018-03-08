@@ -1,0 +1,38 @@
+.mainDiv{
+
+  margin-top: 100px;
+  background: #EEF4ED;
+  display: flex;
+  justify-content: space-around;
+  }
+
+.sub1{
+  background: #EEF4ED;
+  border-radius: 10px;
+  box-shadow: 2px 5px 5px 2px black;
+}
+.sub2{
+  background: #EEF4ED;
+  border-radius: 10px;
+box-shadow: 2px 5px 5px 2px black;
+}
+.sub3{
+  background: #EEF4ED;
+  border-radius: 10px;
+  box-shadow: 2px 5px 5px 2px black;
+}
+body{
+  background: #BAF1AD;
+}
+.image1{
+  margin: 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+@media all and (max-width:768px) {
+body{
+  background: red;
+}
+}
